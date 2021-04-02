@@ -14,6 +14,7 @@ I think It's crucial to know Centralized finance and Decentralized Finance to ge
 
 I'm currently learning Javascript and frameworks like Node.js, Express, MongoDB to master Solidity and write my Smart Contracts.
 
+Actually looking for team members
 
 <!---
 gabsalvo/gabsalvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
