@@ -1,8 +1,8 @@
-gab@gab-pc:~$ ./AboutMe.sh
+[gab@gab-pc:~]$ cat AboutMe.txt
 
 As a kid, I remember being scared of that black command line that eventually pooped up when I used to click everything on that ridiculously huge pc.
 
-As a teen, I remember using AlterVista to create my first blog about martial arts when the situation has escalated quickly and,  I turned that blog into a malicious website.
+As a teen, I remember using AlterVista to create my first blog about martial arts when the situation has escalated quickly and, I turned that blog into a malicious website.
 
 Fortunately, Google took it down in 2 days and, no harm was done. 
 Why did I do it? 
@@ -12,9 +12,7 @@ As a young adult, I'm focusing my energies on studying Decentralized Finance by 
 
 I think It's crucial to know Centralized finance and Decentralized Finance to get the best out of the two.
 
-I'm currently learning Javascript and frameworks like Node.js, Express, MongoDB to master Solidity and write my Smart Contracts.
-
-Actually looking for team members
+I'm currently digging into Solidity, Javascript and Rust
 
 <!---
 gabsalvo/gabsalvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
