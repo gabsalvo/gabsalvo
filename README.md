@@ -1,18 +1,10 @@
-[gab@gab-pc:~]$ cat AboutMe.txt
+[gab@gab-pc:~]$ cat small_about_me.txt
 
-As a kid, I remember being scared of that black command line that eventually pooped up when I used to click everything on that ridiculously huge pc.
+Final Year Computer Science Student with a strong interest in Robotics and Green Computing. 
 
-As a teen, I remember using AlterVista to create my first blog about martial arts when the situation has escalated quickly and, I turned that blog into a malicious website.
+Skilled in Python, C, and Web Development, with a Strong Foundation in Algorithms and Data Structures.
 
-Fortunately, Google took it down in 2 days and, no harm was done. 
-Why did I do it? 
-It seemed a great idea at the time to experiment with new tech stuff!
-
-As a young adult, I'm focusing my energies on studying Decentralized Finance by myself while taking a degree in Computer science at the uni.
-
-I think It's crucial to know Centralized finance and Decentralized Finance to get the best out of the two.
-
-I'm currently digging into Solidity, Javascript and Rust
+Committed to Contributing to a Sustainable Future Through Technology. Seeking an Entry-Level Position to Contribute to Innovative Projects and Expand My Knowledge
 
 <!---
 gabsalvo/gabsalvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
