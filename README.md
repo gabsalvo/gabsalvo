@@ -12,7 +12,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Gabriele Savo"
-        self.role = "Software Engineer"
+        self.role = "Computer Scientist"
         self.language_spoken = ["it_IT", "en_US"]
 
     def say_hi(self):
