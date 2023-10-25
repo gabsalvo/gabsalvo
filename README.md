@@ -25,7 +25,7 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: https://gabsalvo.github.io/
+- Personal website : https://gabsalvo.github.io/
 
 ## 🔧 Technologies & Tools
 
