@@ -1,7 +1,6 @@
 # Hello there 👋
 
-![Fellow Coder](https://img.shields.io/badge/Fellow%20Coder-Number:-blue?style=for-the-badge)
-![Number](https://visitor-badge.laobi.icu/badge?page_id=gabsalvo.gabsalvo&right_color=grey&style=for-the-badge)
+![Fellow Coder](https://visitor-badge.laobi.icu/badge?page_id=gabsalvo.gabsalvo&left_color=FF9900&right_color=grey&left_text=Fellow%20Coder%20Number&style=for-the-badge)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
