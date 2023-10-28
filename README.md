@@ -70,5 +70,5 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gabsalvo&no-frame=true&no-bg=true&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gabsalvo&no-frame=true&no-bg=true&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
