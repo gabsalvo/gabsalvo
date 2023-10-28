@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=gabsalvo.gabsalvo&left_color=blue&right_color=white&left_text=Hello%20Visitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=gabsalvo.gabsalvo&left_color=blue&left_text=Fellow%20Coder)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
