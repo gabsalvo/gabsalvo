@@ -27,6 +27,7 @@ me.say_hi()
 
 
 - Personal website : https://gabsalvo.github.io/
+- Curriculum : https://gabriele-salvo.tiiny.site
 
 
 ## 🔧 Technologies & Tools
