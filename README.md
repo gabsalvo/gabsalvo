@@ -23,7 +23,7 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## 📝 Blogs
+## 📝 Blog & CV
 
 
 - Personal website : https://gabsalvo.github.io/
