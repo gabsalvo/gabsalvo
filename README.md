@@ -16,7 +16,7 @@ class SoftwareEngineer:
         self.language_spoken = ["it_IT", "en_US"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Thanks for dropping by, hope my work sends you flying over the moon")
 
 
 me = SoftwareEngineer()
