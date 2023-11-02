@@ -28,6 +28,7 @@ me.say_hi()
 
 - Personal website : https://gabsalvo.github.io/
 - Curriculum : https://gabriele-salvo.tiiny.site
+- 30 min chat : https://calendly.com/gabrielesalvo/30min
 
 
 ## 🔧 Technologies & Tools
