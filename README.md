@@ -3,7 +3,6 @@
 ![Fellow Coder](https://visitor-badge.laobi.icu/badge?page_id=gabsalvo.gabsalvo&left_color=FF9900&right_color=grey&left_text=Fellow%20Coder&style=for-the-badge)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -25,14 +24,11 @@ me.say_hi()
 
 ## 📝 Blog & CV
 
-
 - Blog : https://gabsalvo.github.io/
 - Curriculum : https://gabriele-salvo.tiiny.site
 - 30 min chat : https://calendly.com/gabrielesalvo/30min
 
-
 ## 🔧 Technologies & Tools
-
 
 **Cloud Services:**
 
@@ -42,7 +38,6 @@ me.say_hi()
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
 
 **Programming Languages:**
 
@@ -57,19 +52,15 @@ me.say_hi()
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
 **Tools and Services:**
 
 ![MicroBit](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white)
 ![RaspeberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-4B4B4B?style=for-the-badge&logo=sublime%20text&logoColor=ff9800)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-5b4965?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
-
-
 ## 🏆 GitHub Trophies
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=gabsalvo&no-frame=true&no-bg=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-
