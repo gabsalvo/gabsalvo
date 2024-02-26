@@ -7,18 +7,18 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class SoftwareEngineer:
+class Astronaut:
 
     def __init__(self):
         self.name = "Gabriele Savo"
-        self.role = "Computer Scientist"
-        self.language_spoken = ["it_IT", "en_US"]
+        self.role = "Computer Scientist, Mentor at Hack your future"
+        self.language_spoken = ["it_IT", "en_US", "nl_NL"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope my work sends you flying over the moon")
+        print("Thanks for dropping by, here to land a hand!")
 
 
-me = SoftwareEngineer()
+me = Astronaut()
 me.say_hi()
 ```
 
