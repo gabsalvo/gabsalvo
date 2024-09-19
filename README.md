@@ -27,7 +27,7 @@ me.say_hi()
 ## 📝 Blog & CV
 
 - Blog : https://gabsalvo.github.io/
-- Curriculum : https://shorturl.at/EkGPj
+- Curriculum : [hosted here](https://github.com/gabsalvo/gabsalvo.github.io/blob/7f935e47b695d484cfe62e88dfdb8b16ae0fb33b/src/assets/Gabriele%20Salvo%20Resume.pdf)
 - 30 min chat : https://calendly.com/gabrielesalvo/30min
 
 ## 🔧 Technologies & Tools
