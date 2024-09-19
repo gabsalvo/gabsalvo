@@ -11,8 +11,8 @@ class Researcher:
 
     def __init__(self):
         self.name = "Gabriele Savo"
-        self.bachelor_uni = "University of Pisa"
-        self.master_uni = "Techical University of Eindhoven"
+        self.bachelor_uni = "University of Pisa - Computer Science"
+        self.master_uni = "Techical University of Eindhoven - Artificial Intelligence and Engineering Systems"
         self.research_interests = "ai, prosthetics, optimization, compression, robotics"
         self.language_spoken = ["it_IT", "en_US"]
 
