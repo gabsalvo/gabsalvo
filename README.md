@@ -14,7 +14,7 @@ class Researcher:
         self.bachelor_uni = "University of Pisa - Computer Science"
         self.master_uni = "Techical University of Eindhoven - Artificial Intelligence and Engineering Systems"
         self.research_interests = "ai, prosthetics, optimization, compression, robotics"
-        self.language_spoken = ["it_IT", "en_US"]
+        self.language_spoken = ["it_IT", "en_UK"]
 
     def say_hi(self):
         print("Thanks for dropping by, open to discuss any cool project!")
