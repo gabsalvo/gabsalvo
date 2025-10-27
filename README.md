@@ -62,7 +62,3 @@ me.say_hi()
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-5b4965?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gabsalvo&no-frame=true&no-bg=false&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
