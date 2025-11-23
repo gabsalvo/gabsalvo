@@ -26,16 +26,12 @@ I’m a **Certiport-certified instructor** and a registered independent consulta
 
 ---
 
-## Right now
+## Blog, CV & links
 
-- 🧠 **Master’s:** AI & Engineering Systems @ TU/e – **Healthcare track**  
-- 🏥 **Focus:** AI for healthcare, intelligent prosthetics, and optimisation of data-heavy pipelines  
-- 📚 **Currently deepening:**  
-  - *8TM10 (2025-GS2) Orthopaedic Soft Tissues: biomechanics and mechanobiology*  
-  - *5ARD0 (2025-GS2) Control principles for linear systems*  
-- 🔎 **Open to:**  
-  - AI consulting (retainer or project-based, EU/remote)  
-  - Future **PhD collaborations** in AI for healthcare, robotics, and prosthetics
+- 📝 **Articles & blog:** https://gabsalvo.github.io/  
+- 📄 **CV / résumé:** [PDF on GitHub](https://github.com/gabsalvo/gabsalvo/blob/main/Gabriele%20Salvo%20Resume%202025.docx.pdf)  
+- 🌐 **Website / consulting:** https://www.gabsalvo.com/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/gabriele-salvo/  
 
 ---
 
@@ -50,6 +46,27 @@ Teaching is a core part of what I do, not an afterthought.
 - Comfortable teaching **technical teams**, **non-CS professionals**, and **students** at different levels
 
 If your organisation needs someone who can both **build** systems and **teach** them to others, that’s my sweet spot.
+
+---
+
+## Let’s talk
+
+- 📧 Email: **info@gabsalvo.com**  
+- 📅 Book a free 30-min intro call: https://calendly.com/gabrielesalvo/30min  
+
+Tell me about your team, your data, and what “success” looks like.  
+I’ll help you decide whether AI is the right tool – and if it is, we’ll make it work in practice.
+
+## Right now
+
+- 🧠 **Master’s:** AI & Engineering Systems @ TU/e – **Healthcare track**  
+- 🏥 **Focus:** AI for healthcare, intelligent prosthetics, and optimisation of data-heavy pipelines  
+- 📚 **Currently deepening:**  
+  - *8TM10 (2025-GS2) Orthopaedic Soft Tissues: biomechanics and mechanobiology*  
+  - *5ARD0 (2025-GS2) Control principles for linear systems*  
+- 🔎 **Open to:**  
+  - AI consulting (retainer or project-based, EU/remote)  
+  - Future **PhD collaborations** in AI for healthcare, robotics, and prosthetics
 
 ---
 
@@ -102,21 +119,3 @@ I work across the stack, but these are my main tools:
 
 *(I keep this section up to date as my toolbox evolves.)*
 
----
-
-## Blog, CV & links
-
-- 📝 **Articles & blog:** https://gabsalvo.github.io/  
-- 📄 **CV / résumé:** [PDF on GitHub](https://github.com/gabsalvo/gabsalvo/blob/main/Gabriele%20Salvo%20Resume%202025.docx.pdf)  
-- 🌐 **Website / consulting:** https://www.gabsalvo.com/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/gabriele-salvo/  
-
----
-
-## Let’s talk
-
-- 📧 Email: **info@gabsalvo.com**  
-- 📅 Book a free 30-min intro call: https://calendly.com/gabrielesalvo/30min  
-
-Tell me about your team, your data, and what “success” looks like.  
-I’ll help you decide whether AI is the right tool – and if it is, we’ll make it work in practice.
