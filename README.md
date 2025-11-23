@@ -1,6 +1,7 @@
 # Gabriele Salvo
 
-**AI Engineer & Consultant** · MSc AI & Engineering Systems @ TU/e (Healthcare track)  
+**AI Consultant & Certiport-Certified Instructor**  
+MSc Artificial Intelligence & Engineering Systems @ TU/e (Healthcare track)  
 Eindhoven, NL · EU/remote
 
 I build human-centred AI systems for healthcare and data-driven teams – from first prototype to production-ready tools your team actually uses.
@@ -9,13 +10,17 @@ I build human-centred AI systems for healthcare and data-driven teams – from f
 
 ## What I do
 
-**AI consulting for teams who want results, not buzzwords:**
+**AI consulting and technical teaching for teams who want results, not buzzwords.**
 
-- **AI & ML systems consulting** – scope, design, and deliver models that plug into real workflows.  
-- **AI tools & dashboards** – FastAPI/Next.js agents, decision dashboards, monitoring and handover.  
-- **Technical teaching & workshops** – Python, AI/ML, and foundations for non-CS teams.
+- **AI & ML systems consulting** – scope, design, and deliver models that plug into real workflows  
+- **AI tools & dashboards** – FastAPI/Next.js agents, decision dashboards, monitoring and handover  
+- **Technical teaching & workshops** – Python, AI/ML, and foundations for non-CS teams
 
-I’m a registered AI consultant in the Netherlands and currently a first-year MSc student in **Artificial Intelligence & Engineering Systems** at **TU/e**, focusing on **healthcare tech** and **optimisation**.
+I’m a **Certiport-certified instructor** and a registered independent consultant in the Netherlands:
+
+- **Trade name:** Gabriele Salvo IT Consultancy  
+- **Location:** The Lismortel 42-314, Eindhoven (Head office)  
+- **Chamber of Commerce (KvK):** **98178059**
 
 > If you’re thinking “we should get someone we trust to own the AI part”, that’s exactly my role.
 
@@ -31,6 +36,20 @@ I’m a registered AI consultant in the Netherlands and currently a first-year M
 - 🔎 **Open to:**  
   - AI consulting (retainer or project-based, EU/remote)  
   - Future **PhD collaborations** in AI for healthcare, robotics, and prosthetics
+
+---
+
+## Teaching & community
+
+Teaching is a core part of what I do, not an afterthought.
+
+- **Certiport-certified instructor** for Python / AI courses  
+- Experience teaching and mentoring with:
+  - **Save the Children**, **CoderDojo Pisa**, **Hack Your Future**, **Volta Institute**, and university-level courses  
+- Style: concrete examples, live coding, and a “theory → code → deployment” pipeline so teams can keep building after I leave  
+- Comfortable teaching **technical teams**, **non-CS professionals**, and **students** at different levels
+
+If your organisation needs someone who can both **build** systems and **teach** them to others, that’s my sweet spot.
 
 ---
 
@@ -68,18 +87,6 @@ Interactive debate tool for AI ethics: role-based agents, argument scaffolding a
 
 ---
 
-## Teaching & community
-
-I care a lot about making advanced tech **accessible and safe** to use.
-
-- Instructor for Python / AI courses (including **Certiport-aligned** content)  
-- Teaching & mentoring experience with **Save the Children, CoderDojo Pisa, Hack Your Future, Volta Institute**, and university-level courses  
-- Style: concrete examples, live coding, and “theory → code → deployment” so teams can keep building after I leave
-
-If your organisation needs someone who can both **build** systems and **teach** them to others, that’s my sweet spot.
-
----
-
 ## Tech I use
 
 I work across the stack, but these are my main tools:
@@ -100,8 +107,8 @@ I work across the stack, but these are my main tools:
 ## Blog, CV & links
 
 - 📝 **Articles & blog:** https://gabsalvo.github.io/  
-- 📄 **CV / résumé:** [PDF on GitHub](https://github.com/gabsalvo/gabsalvo.github.io/blob/7f935e47b695d484cfe62e88dfdb8b16ae0fb33b/src/assets/Gabriele%20Salvo%20Resume.pdf)  
-- 🌐 **Website / consulting:** https://www.gabsalvo.com/  
+- 📄 **CV / résumé:** [PDF on GitHub](https://github.com/gabsalvo/gabsalvo/blob/main/Gabriele%20Salvo%20Resume%202025.docx.pdf)  
+- 🌐 **Website / consulting:** https://www.gabsalvo.com/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/gabriele-salvo/  
 
 ---
