@@ -26,15 +26,6 @@ I’m a **Certiport-certified instructor** and a registered independent consulta
 
 ---
 
-## Blog, CV & links
-
-- 📝 **Articles & blog:** https://gabsalvo.github.io/  
-- 📄 **CV / résumé:** [PDF on GitHub](https://github.com/gabsalvo/gabsalvo/blob/main/Gabriele%20Salvo%20Resume%202025.docx.pdf)  
-- 🌐 **Website / consulting:** https://www.gabsalvo.com/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/gabriele-salvo/  
-
----
-
 ## Teaching & community
 
 Teaching is a core part of what I do, not an afterthought.
@@ -49,14 +40,6 @@ If your organisation needs someone who can both **build** systems and **teach** 
 
 ---
 
-## Let’s talk
-
-- 📧 Email: **info@gabsalvo.com**  
-- 📅 Book a free 30-min intro call: https://calendly.com/gabrielesalvo/30min  
-
-Tell me about your team, your data, and what “success” looks like.  
-I’ll help you decide whether AI is the right tool – and if it is, we’ll make it work in practice.
-
 ## Right now
 
 - 🧠 **Master’s:** AI & Engineering Systems @ TU/e – **Healthcare track**  
@@ -67,6 +50,24 @@ I’ll help you decide whether AI is the right tool – and if it is, we’ll ma
 - 🔎 **Open to:**  
   - AI consulting (retainer or project-based, EU/remote)  
   - Future **PhD collaborations** in AI for healthcare, robotics, and prosthetics
+
+---
+
+
+## Blog, CV & links
+
+- 📝 **Articles & blog:** https://gabsalvo.github.io/  
+- 📄 **CV / résumé:** [PDF on GitHub](https://github.com/gabsalvo/gabsalvo/blob/main/Gabriele%20Salvo%20Resume%202025.docx.pdf)  
+- 🌐 **Website / consulting:** https://www.gabsalvo.com/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/gabriele-salvo/  
+
+## Let’s talk
+
+- 📧 Email: **info@gabsalvo.com**  
+- 📅 Book a free 30-min intro call: https://calendly.com/gabrielesalvo/30min  
+
+Tell me about your team, your data, and what “success” looks like.  
+I’ll help you decide whether AI is the right tool – and if it is, we’ll make it work in practice.
 
 ---
 
