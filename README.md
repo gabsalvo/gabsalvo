@@ -43,7 +43,7 @@ I’m a **Certiport-certified instructor** and a registered independent consulta
 
 Teaching is a core part of what I do, not an afterthought.
 
-- [**Certiport-certified instructor**] for Python / AI courses (https://www.credly.com/users/gabrielesalvo/badges#credly)
+- **[Certiport-certified instructor](https://www.credly.com/users/gabrielesalvo/badges#credly)** for Python / AI courses
 - Experience teaching and mentoring with:
   - **Save the Children**, **CoderDojo Pisa**, **Hack Your Future**, **Volta Institute**, and university-level courses  
 - Style: concrete examples, live coding, and a “theory → code → deployment” pipeline so teams can keep building after I leave  
