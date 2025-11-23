@@ -1,64 +1,115 @@
-# Hello there 👋
+# Gabriele Salvo
 
-![Fellow Coder](https://visitor-badge.laobi.icu/badge?page_id=gabsalvo.gabsalvo&left_color=FF9900&right_color=grey&left_text=Fellow%20Coder&style=for-the-badge)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+**AI Engineer & Consultant** · MSc AI & Engineering Systems @ TU/e (Healthcare track)  
+Eindhoven, NL · EU/remote
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+I build human-centred AI systems for healthcare and data-driven teams – from first prototype to production-ready tools your team actually uses.
 
-class Researcher:
+---
 
-    def __init__(self):
-        self.name = "Gabriele Savo"
-        self.bachelor_uni = "University of Pisa - Computer Science"
-        self.master_uni = "Techical University of Eindhoven - Artificial Intelligence and Engineering Systems"
-        self.research_interests = "ai, prosthetics, optimization, compression, robotics"
-        self.language_spoken = ["it_IT", "en_UK"]
+## What I do
 
-    def say_hi(self):
-        print("Thanks for dropping by, open to discuss any cool project!")
+**AI consulting for teams who want results, not buzzwords:**
 
+- **AI & ML systems consulting** – scope, design, and deliver models that plug into real workflows.  
+- **AI tools & dashboards** – FastAPI/Next.js agents, decision dashboards, monitoring and handover.  
+- **Technical teaching & workshops** – Python, AI/ML, and foundations for non-CS teams.
 
-me = Researcher()
-me.say_hi()
-```
+I’m a registered AI consultant in the Netherlands and currently a first-year MSc student in **Artificial Intelligence & Engineering Systems** at **TU/e**, focusing on **healthcare tech** and **optimisation**.
 
-## 📝 Blog & CV
+> If you’re thinking “we should get someone we trust to own the AI part”, that’s exactly my role.
 
-- Blog : https://gabsalvo.github.io/
-- Curriculum : [hosted here](https://github.com/gabsalvo/gabsalvo.github.io/blob/7f935e47b695d484cfe62e88dfdb8b16ae0fb33b/src/assets/Gabriele%20Salvo%20Resume.pdf)
-- 30 min chat : https://calendly.com/gabrielesalvo/30min
+---
 
-## 🔧 Technologies & Tools
+## Right now
 
-**Cloud Services:**
+- 🧠 **Master’s:** AI & Engineering Systems @ TU/e – **Healthcare track**  
+- 🏥 **Focus:** AI for healthcare, intelligent prosthetics, and optimisation of data-heavy pipelines  
+- 📚 **Currently deepening:**  
+  - *8TM10 (2025-GS2) Orthopaedic Soft Tissues: biomechanics and mechanobiology*  
+  - *5ARD0 (2025-GS2) Control principles for linear systems*  
+- 🔎 **Open to:**  
+  - AI consulting (retainer or project-based, EU/remote)  
+  - Future **PhD collaborations** in AI for healthcare, robotics, and prosthetics
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+---
 
-**Programming Languages:**
+## Selected projects
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Angualar](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### MedJourney.ai — Clinical data clustering + XAI  
+**Repo:** [MedJourney.ai](https://github.com/gabsalvo/MedJourney.ai) · **Backend:** [MedBackend](https://github.com/gabsalvo/MedBackend)  
+Interactive platform for **GEO series-matrix datasets**: KMeans/DBSCAN/Agglomerative clustering, visualisation, and LLM-based explanations, with privacy-aware processing on a VPS and multi-project support (PNG, PDF, JSON, ZIP per run).
 
-**Tools and Services:**
+---
 
-![MicroBit](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white)
-![RaspeberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-4B4B4B?style=for-the-badge&logo=sublime%20text&logoColor=ff9800)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-5b4965?style=for-the-badge&logo=obsidian&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+### Human Activity Recognition — Smartphone sensors  
+**Repo:** [Activity-Recognition](https://github.com/gabsalvo/Activity-Recognition)  
+End-to-end HAR pipeline on smartphone IMU data: preprocessing, windowing, feature engineering and classical ML models, with a focus on reproducible experimentation and clear analysis notebooks.
+
+---
+
+### Mushroom classification — tabular ML playground  
+**Repo:** [Mushroom_python](https://github.com/gabsalvo/Mushroom_python)  
+Practical ML lab on a classic mushroom dataset: model comparison, feature handling, metrics and explainability for non-ML audiences (great for teaching and onboarding).
+
+---
+
+### Finance dashboard — FastAPI + Next.js  
+**Repo:** [Finance_Dashboard](https://github.com/gabsalvo/Finance_Dashboard)  
+Personal finance dashboard with **FastAPI** backend and **Next.js + ShadCN** frontend: transaction views, simple analytics, and a base for future agent-style workflows.
+
+---
+
+### AI Ethics Debate Engine — teaching tooling  
+**Repo:** [debate_engine](https://github.com/gabsalvo/debate_engine)  
+Interactive debate tool for AI ethics: role-based agents, argument scaffolding and reflection prompts. Built to make abstract topics concrete and to improve engagement in class.
+
+*(You can swap or add projects here as you grow new case studies.)*
+
+---
+
+## Teaching & community
+
+I care a lot about making advanced tech **accessible and safe** to use.
+
+- Instructor for Python / AI courses (including **Certiport-aligned** content)  
+- Teaching & mentoring experience with **Save the Children, CoderDojo Pisa, Hack Your Future, Volta Institute**, and university-level courses  
+- Style: concrete examples, live coding, and “theory → code → deployment” so teams can keep building after I leave
+
+If your organisation needs someone who can both **build** systems and **teach** them to others, that’s my sweet spot.
+
+---
+
+## Tech I use
+
+I work across the stack, but these are my main tools:
+
+**Core stack:**  
+`Python` · `FastAPI` · `PyTorch` · `scikit-learn` · `R` · `MATLAB`
+
+**Web & product:**  
+`Next.js` · `React` · `TypeScript` · `ShadCN UI` · `Vercel` · `Supabase` · `Postgres` · `Docker`
+
+**Workflow & infra:**  
+`GitHub Actions` · `AWS` · `Google Cloud` · `Linux` · `Shell scripting`
+
+*(I keep this section up to date as my toolbox evolves.)*
+
+---
+
+## Blog, CV & links
+
+- 📝 **Articles & blog:** https://gabsalvo.github.io/  
+- 📄 **CV / résumé:** [PDF on GitHub](https://github.com/gabsalvo/gabsalvo.github.io/blob/7f935e47b695d484cfe62e88dfdb8b16ae0fb33b/src/assets/Gabriele%20Salvo%20Resume.pdf)  
+- 🌐 **Website / consulting:** https://www.gabsalvo.com/  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/gabriele-salvo/  
+
+---
+
+## Let’s talk
+
+- 📧 Email: **info@gabsalvo.com**  
+- 📅 Book a free 30-min intro call: https://calendly.com/gabrielesalvo/30min  
+
+Tell me about your team, your data, and what “success” looks like.  
+I’ll help you decide whether AI is the right tool – and if it is, we’ll make it work in practice.
